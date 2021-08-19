@@ -1,0 +1,3 @@
+掌握Julia HTTP包request中GET、POST用法
+#r=HTTP.request("GET","http://127.0.0.1:8080/health")
+#f=HTTP.request("POST","http://127.0.0.1:8080/yangsimoptapi",[],d)
